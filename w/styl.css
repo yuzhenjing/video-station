@@ -1,0 +1,203 @@
+html,body,div,h1,h2,h3,h4,h5,h6,p,span,em,a,img,ul,li,ol,form,button,input,textarea,dl,dt,dd,iframe{margin:0;padding:0;}
+body{
+	text-align:left;
+	font:14px/1.5 "\5FAE\8F6F\96C5\9ED1","\5B8B\4F53","Arial",sans-serif;
+	color:#888;
+	background-color: #e2e2e2;
+	background-image: url(bodybg.gif);
+	background-repeat: repeat;
+	background-position: 0 0;
+}
+a {cursor: pointer;color:#000;text-decoration: none;outline: 0 none;}
+a:hover,a:focus{text-decoration:none;color:#CD2407;}
+h1,h2,h3,h4,h5,h6,em{font-size:14px;font-weight:normal;}
+ol,ul{list-style:none;}
+em{font-style: normal;}
+img{border:0;vertical-align:middle;}
+
+
+.header{
+	border-top:5px solid #045899;
+	height:79px;
+	width:100%;
+	background-image: url(h_bg.png);
+	background-repeat: repeat-x;
+}
+.top{width:100%;margin:0px auto;position:relative;}
+.logo{
+	float:left;
+	width:648px;
+	height:69px;
+	margin-top:3px;
+	background-image: url(wdly-dh_03.jpg);
+	background-repeat: no-repeat;
+}
+.text{font-size:14px;color:#333;margin:43px 0px 0px 145px;}
+.tel{ width: 231px; height: 44px; position: absolute; top: 15px; right: 207px; background-image: url(wdly-dh_06.jpg); background-repeat: no-repeat; 
+}
+.sethome{
+	float:right;
+	font-size:12px;
+	line-height:26px;
+	color:#fff;
+	width:167px;
+	height:66px;
+	background-image: url(home.png);
+	background-repeat: no-repeat;
+}
+.sethome a{text-decoration:none;margin:0 16px;color:#953c00;}
+.wrap{margin:10px auto;width:98.5%;overflow:hidden; padding:5px 5px 5px 5px; border:solid 1px #d4d4d4; background-color:#fff;}
+.center{background:#fff;overflow:hidden;}
+.big_tit h2{ padding-right:15px; float:left; min-width:164px; background:#2E71A6  url(wdly-dh_11.jpg) center right no-repeat;}
+.big_tit{
+	margin:auto;
+	width:100%;
+	height:50px;
+
+	background-repeat: no-repeat;
+}
+.big_tit h2{font-size:16px;color:#fff;line-height:48px;padding-left:15px;font-family:"微软雅黑"; font-size:14px;}
+.nav_box{width:99%;margin:10px auto;background:#f7f7f7;border:1px solid #eee;overflow:hidden;}.nav_box li{float:left;}
+.nav_li{ overflow:hidden;float: left; width:150px; height: 46px; border: 2px solid #dedede; background: #fff; float: left; margin:8px 11px 8px 8px; text-align: center; line-height: 46px; font-size: 15px; cursor: pointer; font-family: "微软雅黑"; }
+.nav_li:hover{width:150px;height:46px;border:2px solid #ffc42b;float:left;margin:8px 11px 8px 8px;text-align:center;line-height:46px;font-size:15px;}
+.nav_li em { margin-left: 5px; vertical-align: middle; font-family: "微软雅黑"; }
+
+.footer{
+	width:100%;
+	margin:17px auto;
+	text-align:center;
+	color:#333;
+	line-height:25px;
+	font-family:"宋体";
+	font-size:12px;
+}
+.footer a{margin:0px 5px;}
+.clear{
+	clear:both;}
+.nav_box ul li .nav_li img{ margin-top:0px;}
+/*手机自适应加写*/@media only screen and (max-width:639px){	.logo{ width:100%;
+
+    margin-top: 3px;
+    background: url(wdly-dh_03.png) center center no-repeat;
+}	.header{ height:60px;}
+
+
+	.notice{display:none}	body{ overflow-x:hidden;}#betboy_header {display:none}
+	
+	}  
+
+table{ width:100%}
+td {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #C5C9CA;
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    width: 20.1%;
+}
+.banner_company_detail {
+    margin-left: 45px;
+    min-width: 190px;
+    position: absolute;
+}.banner_company_avatar {
+    background: url("s-header-avatar-bg.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 38px;
+    width: 38px;
+}
+.banner_company_small_display_inner {
+    position: relative;
+    margin: 8px 0 0 8px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.banner_company_small_display {
+    float: left;
+    height: 54px;
+    width: 100%;
+    overflow: hidden;
+    background: none repeat scroll 0 center transparent;
+    cursor: pointer;
+}
+
+
+
+.banner_company_name {
+    color: #333333;
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+}.banner-cbs-txt {
+    margin-right: 10px;
+}.banner-cbs-txt .numbers {
+    color: #336699;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 14px;
+}.banner-cbs-txt .txt {
+    color: #999;
+    font-size: 11px;
+    font-weight: 500;
+    height: 14px;
+    line-height: 14px;
+    margin-left: 5px;
+}
+
+
+#banner_company_lists {
+	box-shadow: 0 1px 3px #C5C9CA;
+	margin-top: 18px;
+}
+.m-avatar img {
+	height: 34px;
+	margin: 2px 0 0 2px;
+	width: 34px;
+}
+.m-avatar {
+	position: absolute;
+	background: url("s-header-avatar-bg.png") no-repeat scroll 0 0 transparent;
+	height: 38px;
+	width: 38px;
+}
+.m-l {
+	position: relative;
+	margin-right: 140px;
+	height: 100%;
+}
+.m-r {
+	float: right;
+	width: 140px;
+	height: 100%;
+}
+
+#betboy_header {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: url("header_banner_bottom_bg.png") repeat-x scroll 0 100% #FFFFFF;
+    border-color: #C6CACD;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid solid none;
+    border-width: 1px 1px 0;
+    margin: 0 auto;
+    padding-bottom: 2px;
+    width: 99%;
+}
+
+.singular-line {
+    background: none repeat scroll 0 0 #EEE;
+}
+
+.header-banner-adv  a{color:#f00 }
+.header-banner-adv { 
+    height: 18px;
+    overflow: hidden;
+       margin: 12px 50px 0 20px;
+    color: #999;
+}

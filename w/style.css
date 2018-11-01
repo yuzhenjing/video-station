@@ -1,0 +1,144 @@
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 15px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 15px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 15px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #66FFCC; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+H6 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+A {
+	COLOR: #959595; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #fff
+}
+A.c1 {
+	FONT-WEIGHT: bold; COLOR: #C0C0C0
+}
+A.c2 {
+	COLOR: #000000
+}
+A.c3 {
+	FONT-WEIGHT: bold; COLOR: #ffff66
+}
+A.c4 {
+	COLOR: #ff9a00
+}
+A.c5 {
+	FONT-WEIGHT: bold; COLOR: #00FFFF
+}
+A.c6 {
+	COLOR: #959595
+}
+A.c7 {
+	FONT-WEIGHT: bold; COLOR: #959595
+}
+A.c8 {
+	COLOR: #000000
+}
+BODY {
+	FONT-SIZE: 16px; BACKGROUND-IMAGE: url(../Images/bj.jpg); MARGIN: 0px; COLOR: #cccccc; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #000
+}
+#var {
+	BORDER-TOP: #000 10px solid; BACKGROUND: #525252; MARGIN: 0px auto; WIDTH: 981px
+}
+#head {
+	BORDER-RIGHT: #666 1px solid; BACKGROUND: url(../Images/top_line.gif) no-repeat 50% bottom; BORDER-LEFT: #666 1px solid; WIDTH: 979px; HEIGHT: 86px
+}
+.logo {
+	FLOAT: left; MARGIN: 12px 10px 17px
+}
+.gonggao {
+	FONT-SIZE: 13px; FLOAT: left; MARGIN: 12px 0px 17px; WIDTH: 523px; COLOR: #fff; LINE-HEIGHT: 170%
+}
+.join {
+	FLOAT: right; MARGIN: 7px 10px 17px; WIDTH: 182px
+}
+.both {
+	CLEAR: both
+}
+.top {
+	MARGIN-BOTTOM: 10px
+}
+.tijiao A {
+	PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; BACKGROUND: #434343; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.tijiao A:hover {
+	BACKGROUND: #333
+}
+#tuijian {
+	WIDTH: 981px
+}
+#tuijian H1 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #333; PADDING-BOTTOM: 3px; MARGIN: 8px 0px 0px 8px; WIDTH: 48px; PADDING-TOP: 3px
+}
+#tuijian A {
+	DISPLAY: block; PADDING-LEFT: 10px; BACKGROUND: #3f3f3f; FLOAT: left; MARGIN-BOTTOM: 1px; MARGIN-LEFT: 1px; WIDTH: 98px; LINE-HEIGHT: 24px; HEIGHT: 24px
+}
+#tuijian A:hover {
+	BACKGROUND: #282828
+}
+#ad960 {
+	BORDER-RIGHT: #666 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; BORDER-LEFT: #666 1px solid; WIDTH: 960px; PADDING-TOP: 10px
+}
+#main {
+	BORDER-RIGHT: #666 1px solid; BORDER-LEFT: #666 1px solid; WIDTH: 979px
+}
+#main H1 {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; BACKGROUND: #222222; PADDING-BOTTOM: 4px; MARGIN-LEFT: 8px; WIDTH: 56px; PADDING-TOP: 4px
+}
+#t1 {
+	CLEAR: both; MARGIN-TOP: 10px; OVERFLOW: hidden
+}
+#t2 {
+	CLEAR: both; MARGIN-TOP: 10px; OVERFLOW: hidden
+}
+#t3 {
+	CLEAR: both; MARGIN-TOP: 10px; OVERFLOW: hidden
+}
+#t4 {
+	CLEAR: both; MARGIN-TOP: 10px; OVERFLOW: hidden
+}
+#t5 {
+	CLEAR: both; MARGIN-TOP: 10px; OVERFLOW: hidden
+}
+#t6 {
+	CLEAR: both; MARGIN-TOP: 10px; OVERFLOW: hidden
+}
+#t7 {
+	CLEAR: both; MARGIN-TOP: 10px; OVERFLOW: hidden
+}
+#t8 {
+	CLEAR: both; MARGIN-TOP: 10px; OVERFLOW: hidden
+}
+.bg {
+	BACKGROUND: #333333; OVERFLOW: hidden; WIDTH: 979px
+}
+#main .bg A {
+	PADDING-LEFT: 8px; FLOAT: left; WIDTH: 114px; LINE-HEIGHT: 30px; HEIGHT: 30px
+}
+#main .bg A:hover {
+	BACKGROUND: #222
+}
+#foot {
+	BORDER-TOP: #000 1px solid; PADDING-BOTTOM: 9px; WIDTH: 981px; LINE-HEIGHT: 180%; PADDING-TOP: 14px; TEXT-ALIGN: center
+}
