@@ -1,7 +1,7 @@
 <?php
  $aik =  array (
   'sitename' => '智云影院',
-  'pcdomain' => 'http://www.yunyouguo.com/ys/',
+  'pcdomain' => 'http://www.v1.com/',
   'title' => '﻿智云影院-免VIP抢先观看最新好看的电影和电视剧在线聚合直播平台',
   'keywords' => '智云影院,电视直播网站,零八影院快播,在线聚合直播平台，手机在线观看，在线直播，最新电影在线观看，高清云影视,云点播,免费看视频,湖南卫视直播,80电影网,最新电影天堂免费在线观看',
   'description' => '﻿智云影院,热剧快播,最好看的剧情片尽在﻿智云影院,高清云影视免费为大家提供最新最全的免费电影，电视剧，综艺，动漫无广告在线云点播，以及电视直播',
@@ -21,7 +21,7 @@ window.document.write(\'<script id="changyan_mobile_js" charset="utf-8" type="te
   'youlian' => '<a target="blank" class="gobtn" href="index.php">官方首页</a>	
 <a target="blank" class="gobtn" href="dh.html">导航大全</a></br></br><a target="blank" class="gobtn" href="zw/index.php">聚合直播</a><a target="blank" class="gobtn" href="javascript:history.back()">返回上页</a>',
   'shouquan' => '',
-  'zhanwai' => 'http://vcv.nasaosa.com/',
+  'zhanwai' => 'http://1iv.gogoom.com/',
   'zhanwai1' => 'http://www.go1977.com/',
   'zhanwai2' => 'http://www.131zyw.com/',
   'zhanwai3' => 'http://www.baiwanzy.com/',

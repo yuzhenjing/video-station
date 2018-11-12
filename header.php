@@ -14,8 +14,8 @@ include('./inc/aik.config.php');
                 <li class="menu-item"><a href="./zhibo.php">电视台直播</a></li>
                 <li class="menu-item "><a href="./zongyi.php">综艺</a>
                 <li class="menu-item"><a href="./dongman.php">动漫</a></li>
-                <li class="menu-item"><a href="jiexi.php">自己解析</a></li>
                 <li class="menu-item "><a href="yhq.php?r=index/index&u=1162916">优惠券</a></li>
+                <li class="menu-item"><a href="">其他的自己在本站搜搜</a></li>
             </ul>
         </div>
         <span class="sitenav-on"><i class="icon-list"></i></span>
