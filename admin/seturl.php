@@ -25,7 +25,7 @@ include('admincore.php');
 <td colspan="10" align="center">尝鲜影片发布<a href="http://www.tuopan365.com/data/w/" target="_blank">【请解压缩源码查看使用说明.txt文档】</a></td>
 </tr>
 <tr style="color:#999;">
-    <td valign="top" style="padding-left:20px;"><span style="color:blue">★、提示：你可以在此处自定义添加自己喜爱的影片发布至首页电影尝鲜板块。</br>
+    <td valign="top" style="padding-left:20px;"><span style="color:blue">★、提示：你可以在此处自定义添加自己喜爱的影片发布至首页电影尝鲜板块。</span></br>
     </td>
 </tr>
 <?php

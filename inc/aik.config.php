@@ -1,11 +1,11 @@
 <?php
  $aik =  array (
-  'sitename' => '智云影院',
-  'pcdomain' => 'http://www.v1.com/',
-  'title' => '﻿智云影院-免VIP抢先观看最新好看的电影和电视剧在线聚合直播平台',
-  'keywords' => '智云影院,电视直播网站,零八影院快播,在线聚合直播平台，手机在线观看，在线直播，最新电影在线观看，高清云影视,云点播,免费看视频,湖南卫视直播,80电影网,最新电影天堂免费在线观看',
-  'description' => '﻿智云影院,热剧快播,最好看的剧情片尽在﻿智云影院,高清云影视免费为大家提供最新最全的免费电影，电视剧，综艺，动漫无广告在线云点播，以及电视直播',
-  'homelink' => '<a href="https://dtmbw.com/" target="_blank"><font color="red">【微淘金】</font></a>',
+  'sitename' => '蜜爱柚影院',
+  'pcdomain' => 'http://www.meaiu.com/video/',
+  'title' => '﻿蜜爱柚影院-免VIP抢先观看最新好看的电影和电视剧在线聚合直播平台',
+  'keywords' => '蜜爱柚影院,电视直播网站,零八影院快播,在线聚合直播平台，手机在线观看，在线直播，最新电影在线观看，高清云影视,云点播,免费看视频,湖南卫视直播,80电影网,最新电影天堂免费在线观看',
+  'description' => '﻿蜜爱柚影院,热剧快播,最好看的剧情片尽在﻿蜜爱柚影院,高清云影视免费为大家提供最新最全的免费电影，电视剧，综艺，动漫无广告在线云点播，以及电视直播',
+  'homelink' => '<a href="https://dtmbw.com/" target="_blank"><font color="red">【蜜爱柚】</font></a>',
   'icp' => '在线多功能平台',
   'foot' => '本站提供的最新电影和电视剧资源均系收集于各大视频网站,本站只提供web页面服务,并不提供影片资源存储,也不参与录制、上传</br>若本站收录的节目无意侵犯了贵司版权，请给网页底部邮箱地址来信,我们会及时处理和回复,谢谢。',
   'tongji' => '<script language="javascript" type="text/javascript" src="http://js.users.51.la/18759442.js"></script>',
@@ -60,7 +60,7 @@ window.document.write(\'<script id="changyan_mobile_js" charset="utf-8" type="te
   'jiazai_ad' => '<a href="https://dtmbw.com/" target="_blank"><img src="images/jiazai.png" width="100%"></a>',
   'tishi_ad' => '<style> 
  .black_overlay{  display: none;  position: absolute;  top: 0%;  left: 0%;  width: 100%;  height: 100%;  background-color: black;  z-index:1001;  -moz-opacity: 0.8;  opacity:.80;  filter: alpha(opacity=80);  }  .white_content {  display: none;  position: absolute;  top: 25%;  left: 25%;  width: 50%;   height: auto; padding: 16px;  border: 16px solid orange;  background-color: white;  z-index:1002;  overflow: auto;  }  </style> 
-<a href="javascript:void(0)" onclick="document.getElementById(\'light\').style.display=\'block\';document.getElementById(\'fade\').style.display=\'block\'"><p style="text-align:center;color: #fff;font-size: 10px;background: #6ED56C;padding:11px 8px;border-radius: 2px;">点击关注“智云影院”官方微信，看电影更方便!</p></a>
+<a href="javascript:void(0)" onclick="document.getElementById(\'light\').style.display=\'block\';document.getElementById(\'fade\').style.display=\'block\'"><p style="text-align:center;color: #fff;font-size: 10px;background: #6ED56C;padding:11px 8px;border-radius: 2px;">点击关注“蜜爱柚影院”官方微信，看电影更方便!</p></a>
 <div id="light" class="white_content"> 
   <img src="images/qrcode.png" width="100%" height="100%">
     <a href="javascript:void(0)" onclick="document.getElementById(\'light\').style.display=\'none\';document.getElementById(\'fade\').style.display=\'none\'"> 
@@ -70,8 +70,8 @@ window.document.write(\'<script id="changyan_mobile_js" charset="utf-8" type="te
   'dbts' => '【点击选择剧集才会播放哦！或点击播放按钮观看！】',
   'zfb_ad' => '<img src="images/zfb.png">',
   'wx_ad' => '<img src="images/wx.png">',
-  'cebian1_ad' => '<a class="style01" href="https://dtmbw.com/" target="_blank"><strong>官方信息</strong><h2>智云影院-免VIP看视频</h2><p>智云影院,热剧快播,最好看的剧情片,高清云影视免费为大家提供最新最全的免费电影，电视剧，综艺，动漫无广告在线云点播，以及电视直播，聚合直播平台在线播放，各种娱乐主播直播，电台频道直播，在线多功能工具。	提示；如不能正常播放请更换其他播放线路！</p></a>',
-  'cebian2_ad' => '<a class="style02"  href="http://wpa.qq.com/msgrd?v=3&uin=56146737&site=qq&menu=yes" target="_blank"><strong>微淘金</strong></br></br><img src="images/aly.jpg"></a>',
+  'cebian1_ad' => '<a class="style01" href="https://dtmbw.com/" target="_blank"><strong>官方信息</strong><h2>蜜爱柚影院-免VIP看视频</h2><p>蜜爱柚影院,热剧快播,最好看的剧情片,高清云影视免费为大家提供最新最全的免费电影，电视剧，综艺，动漫无广告在线云点播，以及电视直播，聚合直播平台在线播放，各种娱乐主播直播，电台频道直播，在线多功能工具。	提示；如不能正常播放请更换其他播放线路！</p></a>',
+  'cebian2_ad' => '<a class="style02"  href="http://wpa.qq.com/msgrd?v=3&uin=56146737&site=qq&menu=yes" target="_blank"><strong>蜜爱柚影院</strong></br></br><img src="images/aly.jpg"></a>',
   'cebian3_ad' => '<a class="style03" href="#" target="_blank"><strong>多功能影院</strong><h2>看电影不卡顿</h2><img src="images/llq.png"></a>',
   'cebian4_ad' => '<a class="style04"><strong>官方提示</strong><h2>免费在线观看最新电影电视</h2><p>1.部分影音直播功能仅供手机在线播放哦！请将网址复制粘贴到手机浏览器打开观看！电脑上建议下载360浏览器打开观看，手机上建议下载UC浏览器或者下载官方APP打开观看！更多精彩分享请收藏官方发布链接地址...<p>2.观看视频：点击视频的名称列表，再点击选择解析路线进行播放！提示：如解析线路播放有问题请选择其他线路，或者添加官方QQ交流群反馈</p></a></div>',
   'top1_ad' => '<a href="app.html">客户端</a>',

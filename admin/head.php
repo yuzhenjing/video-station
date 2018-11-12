@@ -1,6 +1,6 @@
 <div id="header">
   <div class="con">
-      <h1 class="logo png"><a href="./">智云影院管理系统</a></h1>
+      <h1 class="logo png"><a href="./">蜜爱柚影院管理系统</a></h1>
       <div class="aik_info"><a href="../" target="_blank">网站首页</a>，欢迎您，<?php echo $aik['admin_name']?>，&nbsp;<a href="./login.php?act=logout">退出</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
       <ul class="aik_nav">
 		<li><a href="./"<?php echo $nav=='home'?' class="this"':''?>>首页</a></li>

@@ -146,7 +146,7 @@ include('../inc/aik.config.php');
             s.parentNode.insertBefore(hm, s);
         })();
     </script>
-    </div>
+    </table>
     <!--360自动提交连接-->
     <script>
         (function () {

@@ -28,7 +28,7 @@ include('admincore.php');
 <tr>
     <td width="125" align="right" valign="middle" class="s_title">网站名称：</td>
     <td width="690" valign="middle"><input name="edit" id="edit" type="hidden" value="1" /><input type="text" name="aik[sitename]" value="<?php echo $aik['sitename']?>" size="50">
-      <span class="gray tips">如：智云影院</span></td>
+      <span class="gray tips">如：蜜爱柚影院</span></td>
 </tr>
 <tr>
     <td width="125" align="right" valign="middle" class="s_title">网站域名：</td>
@@ -51,7 +51,7 @@ include('admincore.php');
 </tr>
 <tr>
     <td width="125" align="right" valign="middle" class="s_title">首页友情链接：</td>
-    <td valign="top"><font color="red">请保留智云链接，</font>感谢朋友们配合！或修改其他链接<div class="cl5"></div><textarea name="aik[homelink]" cols="80" rows="3"><?php echo $aik['homelink']?></textarea></td>
+    <td valign="top"><font color="red">请保留蜜爱柚链接，</font>感谢朋友们配合！或修改其他链接<div class="cl5"></div><textarea name="aik[homelink]" cols="80" rows="3"><?php echo $aik['homelink']?></textarea></td>
 </tr>
 <!--<tr>
     <td width="125" align="right" valign="middle" class="s_title">首页顶部公告内容：</td>

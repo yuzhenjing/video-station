@@ -5,9 +5,9 @@ include('config.php');
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>智云影视管理后台 - Powered by 聚合直播平台开源</title>
-<meta name="keywords" content="智云源码" />
-<meta name="description" content="智云影视，聚合直播平台" />
+<title>蜜爱柚影视管理后台 - Powered by 聚合直播平台开源</title>
+<meta name="keywords" content="蜜爱柚源码" />
+<meta name="description" content="蜜爱柚影视，聚合直播平台" />
 <link href="./images/woaik.css" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" type="image/x-icon" href="./../favicon.ico">
 </head>
@@ -18,7 +18,7 @@ include('config.php');
 
       <table width="600" border="0" class="tablecss" cellspacing="0" cellpadding="0" align="center">
    <tr>
-    <td colspan="2" align="center">欢迎使用智云影院管理系统！</td>
+    <td colspan="2" align="center">欢迎使用蜜爱柚影院管理系统！</td>
     </tr>
   <tr>
     <td align="right">当前使用版：</td>
@@ -42,7 +42,7 @@ include('config.php');
   </tr>
   <tr>
     <td align="right">源码：</td>
-    <td>智云二次优化修复多功能开源版</td>
+    <td>蜜爱柚二次优化修复多功能开源版</td>
   </tr>
   <tr>
     <td align="right">allow_url_fopen：</td>
